@@ -1,4 +1,4 @@
-# .NET and Web developer! 👋
+# .NET and Web Developer! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and creating innovative solutions. You'll find here a collection of my projects and contributions.
 
