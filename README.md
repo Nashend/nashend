@@ -1,5 +1,8 @@
 # Hello, I'm a developer! 👋
 
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and creating innovative solutions. In this repository, you'll find a collection of my projects and contributions.
+
+## Currently re-working on my GitHub profile. It may takes a little time. 
 <!--
 **Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
