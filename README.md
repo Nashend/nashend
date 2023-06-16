@@ -5,6 +5,13 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 __I am currently re-working on my GitHub profile. It may takes a little time.__
 
 
+### Personal Projects
+| Pays        | Capitale   | Population (en millions) |
+|-------------|------------|-------------------------|
+| France      | Paris      | 67                      |
+| Espagne     | Madrid     | 46                      |
+| Italie      | Rome       | 60                      |
+
 <!--
 **Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
