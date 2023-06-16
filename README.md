@@ -8,10 +8,10 @@ __I am currently re-working on my GitHub profile. It may takes a little time.__
 ### Personal Projects
 | Name               | Stacks     | Description | Link |
 |--------------------|------------|-------------|-------------------------|
-| ModernRP Core                   | C# - .NET Framework - MySQL Maria DB            | Core of a from-scratch, standalone framework for FiveM.  | [REPO](https://github.com/Nashend/modern-core) |
-| ModernRP MDC                    | React - Material UI - NodeJS - ExpressJS        | [REPO](https://github.com/Nashend/mdc)                   |
-| ModernRP Dealership             | React - Material UI - Lua                       | [REPO](https://github.com/Nashend/dealership)            |
-| ModernRP Character Editor       | React - Custom HTML/CSS - Lua                   | [REPO](https://github.com/Nashend/character-editor)      |
+| ModernRP Core               | C# - .NET Framework - MySQL Maria DB      | The core of a from-scratch, standalone RP framework for FiveM. The server assures the players authentification, persistent data and verifications on each player action to ensure security.    | [REPO](https://github.com/Nashend/modern-core) |
+| ModernRP MDC                | React - Material UI - NodeJS - ExpressJS  | A police administration interface to manage citizens (players).  | [REPO](https://github.com/Nashend/mdc) |
+| ModernRP Dealership         | React - Material UI - Lua                 | A dealership system to allow players to buy vehicles.            | [REPO](https://github.com/Nashend/dealership)            |
+| ModernRP Character Editor   | React - Custom HTML/CSS - Lua             | A system that allow players to customise their characters and create unique outfits. | [REPO](https://github.com/Nashend/character-editor)      |
 
 <!--
 **Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
