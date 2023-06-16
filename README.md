@@ -6,11 +6,10 @@ __I am currently re-working on my GitHub profile. It may takes a little time.__
 
 
 ### Personal Projects
-| Pays        | Capitale   | Population (en millions) |
-|-------------|------------|-------------------------|
-| France      | Paris      | 67                      |
-| Espagne     | Madrid     | 46                      |
-| Italie      | Rome       | 60                      |
+| Name               | Stacks     | Link |
+|--------------------|------------|-------------------------|
+| ModernRP Core      | C# / .NET Framework                          | [REPO](https://github.com/Nashend/modern-core)                      |
+| ModernRP MDC       | React - Material UI - NodeJS - ExpressJS     | [REPO](https://github.com/Nashend/mdc)                              |
 
 <!--
 **Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
