@@ -6,9 +6,9 @@ __I am currently re-working on my GitHub profile. It may takes a little time.__
 
 
 ### Personal Projects
-| Name               | Stacks     | Link |
-|--------------------|------------|-------------------------|
-| ModernRP Core                   | C# - .NET Framework - MySQL Maria DB            | [REPO](https://github.com/Nashend/modern-core)           |
+| Name               | Stacks     | Description | Link |
+|--------------------|------------|-------------|-------------------------|
+| ModernRP Core                   | C# - .NET Framework - MySQL Maria DB            | Core of a from-scratch, standalone framework for FiveM.  | [REPO](https://github.com/Nashend/modern-core) |
 | ModernRP MDC                    | React - Material UI - NodeJS - ExpressJS        | [REPO](https://github.com/Nashend/mdc)                   |
 | ModernRP Dealership             | React - Material UI - Lua                       | [REPO](https://github.com/Nashend/dealership)            |
 | ModernRP Character Editor       | React - Custom HTML/CSS - Lua                   | [REPO](https://github.com/Nashend/character-editor)      |
