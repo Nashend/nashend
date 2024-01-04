@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 __I am currently re-working on my GitHub profile. It may takes a little time.__
 
 
-### Personal Projects
+<!--### Personal Projects
 | Name               | Stacks     | Description | Link |
 |--------------------|------------|-------------|-------------------------|
 | ModernRP Core Framework     | C# - .NET Framework - MySQL Maria DB      | The core of a from-scratch, standalone RP framework for FiveM. The server assures the players authentification, persistent data and verifications on each player action to ensure security.    | [REPO](https://github.com/Nashend/modern-core) |
