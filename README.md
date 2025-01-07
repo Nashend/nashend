@@ -1,20 +1,19 @@
-# .NET/Web Developer! 👋
+# Developer. 🌼
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and creating innovative solutions. You'll find here a collection of my projects and contributions.
+I like coding things
 
-__I am currently re-working on my GitHub profile. It may takes a little time.__
+__C#/.NET__ enthusiast  
+__C++__ enjoyer  
+__Linux__ fan  
 
-<!--
-**Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,cpp,lua,py,solidity,bash,powershell,mysql)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nextjs,react,tailwind,nodejs,express)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,azure,blender,unreal,git,github,prisma,visualstudio,vscode)](https://skillicons.dev)
+
+## Operating systems
+[![My Skills](https://skillicons.dev/icons?i=linux,mint,debian,ubuntu,windows)](https://skillicons.dev)
