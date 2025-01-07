@@ -1,4 +1,8 @@
-## Hi there 👋
+# .NET/Web Developer! 👋
+
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and creating innovative solutions. You'll find here a collection of my projects and contributions.
+
+__I am currently re-working on my GitHub profile. It may takes a little time.__
 
 <!--
 **Nashend/nashend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
