@@ -1,4 +1,4 @@
-# Developer. 🌼
+# Fullstack Developer. 🌼
 
 I like coding things
 
